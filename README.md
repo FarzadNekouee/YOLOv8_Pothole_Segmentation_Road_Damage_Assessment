@@ -1,4 +1,4 @@
-# 🛣️ Real-Time Pothole Segmentation for Road Damage Assessment with YOLOv8
+### 🛣️ Real-Time Pothole Segmentation for Road Damage Assessment with YOLOv8
 ![Pothole Segmentation](/images/cover_image_raw.png)
 
 ## 🔍 Overview
